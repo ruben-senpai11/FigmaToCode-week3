@@ -68,7 +68,7 @@ function Footer() {
                 </div>
             </div>
             <div className="copyright">
-                <p className='text-gray'>Made With ❤️ By <br className="mobile" /> The <span className="text-bold" ></span> white_dev </p>
+                <p className='text-gray'>Made With 🤍 By <br className="mobile" /> The <a href='#' > white_dev</a> </p>
             </div>
         </>
     )
