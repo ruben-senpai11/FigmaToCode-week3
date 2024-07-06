@@ -80,6 +80,9 @@ a:hover{
 .text-white{
     color: white;
 }
+.text-bold{
+  font-weight: 500;
+}
 
 .desktop{
     display: flex;
